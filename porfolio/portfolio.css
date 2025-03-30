@@ -673,7 +673,9 @@ footer{
     .project-box{
         width: 80%;
     }
-
+    #theme-toggle{
+        position: relative;
+    }
 }
 
 /* ----- MEDIA QUERY == 540px / RESPONSIVE ----- */
@@ -690,5 +692,8 @@ footer{
     }
     .input-field{
         width: 100%;
+    }
+    #theme-toggle{
+        position: relative;
     }
 }
