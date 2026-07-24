@@ -437,8 +437,7 @@ h3{
 }
 .project-box>i{
     font-size: 50px;
-    /* color: #00B5E7; */
-    background-image: url('Ayan.jpeg');
+    color: #00B5E7;
     margin-bottom: 25px;
 }
 .project-box label{
@@ -544,7 +543,8 @@ textarea{
     color: var(--color-white);
 }
 .form-button>.btn:hover{
-    background: #00B5E7;
+    /* background: #00B5E7; */
+    background-image: url('Ayan.jpeg');
 }
 .form-button i{
     font-size: 18px;
