@@ -442,8 +442,7 @@ h3{
 }
 .project-box label{
     font-size: 15px;
-    /* color: #777; */
-    background-image: url('Ayan.jpeg');
+    color: #777;
 }
 .project-box::after, .contact-info::after{
     content: "";
