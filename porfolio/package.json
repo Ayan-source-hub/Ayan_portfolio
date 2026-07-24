@@ -1,0 +1,23 @@
+{
+  "name": "ayan-portfolio",
+  "version": "1.0.0",
+  "description": "Ayan Roy's Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'Static site - no build required'",
+    "lint": "echo 'No linter configured for static HTML'"
+  },
+  "keywords": [
+    "portfolio",
+    "static-site"
+  ],
+  "author": "Ayan Roy",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  },
+  "devDependencies": {
+    "serve": "^14.2.3"
+  }
+}
