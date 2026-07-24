@@ -442,7 +442,8 @@ h3{
 }
 .project-box label{
     font-size: 15px;
-    color: #777;
+    /* color: #777; */
+    background-image: url('Ayan.jpeg');
 }
 .project-box::after, .contact-info::after{
     content: "";
@@ -543,8 +544,7 @@ textarea{
     color: var(--color-white);
 }
 .form-button>.btn:hover{
-    /* background: #00B5E7; */
-    background-image: url('Ayan.jpeg');
+    background: #00B5E7;
 }
 .form-button i{
     font-size: 18px;
